@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Sheet Insets Repro",
+    "slug": "rns-sheet-keyboard-fold-repro",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.repro.rnssheetkeyboardfold",
+      "softwareKeyboardLayoutMode": "resize"
+    }
+  }
+}
